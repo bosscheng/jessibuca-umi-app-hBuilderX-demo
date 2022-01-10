@@ -80,7 +80,7 @@ export default {
                 videoBuffer: 0.2, // 缓存时长
                 isResize: false,
                 text: "",
-                decoder:'static/jessibuca.js',
+                decoder:'static/decoder.js',
                 // background: "bg.jpg",
                 loadingText: "加载中",
                 // hasAudio:false,
